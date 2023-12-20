@@ -38,10 +38,12 @@ body{
     border: 2px solid #000
 }
 
-.luffyT{
-    width: 70%;
-    position: inherit;
+.peace{
+    width: 18%;
     border: 2px solid #000
+}
+.luffyT{
+    margin-bottom:200%;
 }
 .space{
     margin-top: 5%;
@@ -61,4 +63,12 @@ body{
 }
 .justificar{
     text-align: justify;
+}
+
+.presentacion{
+    width:45%;
+    background: #6ea4b5;
+    position: inherit;
+    border: 1px solid #000
+   
 }
