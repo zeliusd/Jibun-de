@@ -1,5 +1,5 @@
 *{
-    color: #cacfcf
+    color: #858f9e
 }
 
 body{
@@ -7,7 +7,7 @@ body{
     height: 100%;
 }
 .fondo{
-    background-color: #4D727E;
+    background-color: #0f94c0;
 }
 
 .topColor{
@@ -29,7 +29,7 @@ body{
 }
 
 .shadows{
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 .luffy{
